@@ -6,3 +6,4 @@ runs/
 .nfs*
 *checkpoints*/
 *output*/
+data_check.py
