@@ -1,4 +1,5 @@
 .venv
+.env
 __pycache__/
 checkpoints/
 *.log
@@ -7,3 +8,5 @@ runs/
 *checkpoints*/
 *output*/
 data_check.py
+json_cleaning.py
+sep_kosen_data.csv
